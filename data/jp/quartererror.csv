@@ -1,0 +1,98 @@
+Symbol,Error,Time
+8528,7 column names provided for a DataFrame of width 5,2024-07-09 16:39:25.007309
+8552,7 column names provided for a DataFrame of width 5,2024-07-09 16:39:29.911803
+8540,7 column names provided for a DataFrame of width 5,2024-07-09 16:40:04.909201
+9123,7 column names provided for a DataFrame of width 5,2024-07-09 16:44:34.908301
+1943,7 column names provided for a DataFrame of width 10,2024-07-09 16:55:31.934304
+7699,7 column names provided for a DataFrame of width 5,2024-07-09 17:00:14.904370
+8754,7 column names provided for a DataFrame of width 5,2024-07-09 17:09:32.572486
+7323,7 column names provided for a DataFrame of width 5,2024-07-09 17:09:33.281347
+8528,7 column names provided for a DataFrame of width 5,2024-07-09 17:55:00.790968
+8552,7 column names provided for a DataFrame of width 5,2024-07-09 17:55:04.713311
+8540,7 column names provided for a DataFrame of width 5,2024-07-09 17:55:38.044969
+9123,7 column names provided for a DataFrame of width 5,2024-07-09 18:00:32.053357
+1943,7 column names provided for a DataFrame of width 10,2024-07-09 18:12:03.439916
+7699,7 column names provided for a DataFrame of width 5,2024-07-09 18:16:59.273338
+8754,7 column names provided for a DataFrame of width 5,2024-07-09 18:26:07.605663
+7323,7 column names provided for a DataFrame of width 5,2024-07-09 18:26:10.158472
+8528,7 column names provided for a DataFrame of width 5,2024-07-10 01:02:46.032639
+8552,7 column names provided for a DataFrame of width 5,2024-07-10 01:02:49.434208
+8540,7 column names provided for a DataFrame of width 5,2024-07-10 01:03:38.990438
+9123,7 column names provided for a DataFrame of width 5,2024-07-10 02:08:45.584305
+1943,7 column names provided for a DataFrame of width 10,2024-07-10 02:21:07.198014
+8528,7 column names provided for a DataFrame of width 5,2024-07-11 00:38:21.992912
+8552,7 column names provided for a DataFrame of width 5,2024-07-11 00:38:25.026978
+8540,7 column names provided for a DataFrame of width 5,2024-07-11 00:39:09.471835
+9123,7 column names provided for a DataFrame of width 5,2024-07-11 00:43:55.037167
+1943,7 column names provided for a DataFrame of width 10,2024-07-11 00:58:07.552787
+7699,7 column names provided for a DataFrame of width 5,2024-07-11 01:05:21.449447
+8754,7 column names provided for a DataFrame of width 5,2024-07-11 01:17:40.332221
+7323,7 column names provided for a DataFrame of width 5,2024-07-11 01:17:46.107529
+8528,7 column names provided for a DataFrame of width 5,2024-07-12 00:35:16.821429
+8552,7 column names provided for a DataFrame of width 5,2024-07-12 00:35:17.741874
+8540,7 column names provided for a DataFrame of width 5,2024-07-12 00:35:43.896269
+9123,7 column names provided for a DataFrame of width 5,2024-07-12 00:39:08.987085
+1943,7 column names provided for a DataFrame of width 10,2024-07-12 00:47:05.207824
+7699,7 column names provided for a DataFrame of width 5,2024-07-12 00:50:59.693793
+8754,7 column names provided for a DataFrame of width 5,2024-07-12 00:58:41.232511
+7323,7 column names provided for a DataFrame of width 5,2024-07-12 00:58:43.403282
+8528,7 column names provided for a DataFrame of width 5,2024-07-13 00:35:49.758900
+8552,7 column names provided for a DataFrame of width 5,2024-07-13 00:35:50.069403
+8540,7 column names provided for a DataFrame of width 5,2024-07-13 00:35:58.655270
+9123,7 column names provided for a DataFrame of width 5,2024-07-13 00:38:55.724983
+1943,7 column names provided for a DataFrame of width 10,2024-07-13 00:47:03.903018
+7699,7 column names provided for a DataFrame of width 5,2024-07-13 00:51:01.119401
+7323,7 column names provided for a DataFrame of width 5,2024-07-13 00:58:19.916243
+8754,7 column names provided for a DataFrame of width 5,2024-07-13 00:58:23.878447
+8528,7 column names provided for a DataFrame of width 5,2024-07-16 09:52:14.886924
+8552,7 column names provided for a DataFrame of width 5,2024-07-16 09:52:16.721803
+8540,7 column names provided for a DataFrame of width 5,2024-07-16 09:52:19.860501
+9123,7 column names provided for a DataFrame of width 5,2024-07-16 09:55:13.002216
+1943,7 column names provided for a DataFrame of width 10,2024-07-16 10:01:16.224514
+7699,7 column names provided for a DataFrame of width 5,2024-07-16 10:04:05.421339
+7323,7 column names provided for a DataFrame of width 5,2024-07-16 10:08:56.536764
+8754,7 column names provided for a DataFrame of width 5,2024-07-16 10:08:57.539429
+8528,7 column names provided for a DataFrame of width 5,2024-07-19 00:36:35.343115
+8552,7 column names provided for a DataFrame of width 5,2024-07-19 00:36:36.639512
+8540,7 column names provided for a DataFrame of width 5,2024-07-19 00:37:14.011314
+9123,7 column names provided for a DataFrame of width 5,2024-07-19 00:41:19.828544
+3826,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-19 00:47:45.173248
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-19 00:49:47.830575
+1943,7 column names provided for a DataFrame of width 10,2024-07-19 00:51:54.395946
+7699,7 column names provided for a DataFrame of width 5,2024-07-19 00:56:43.847962
+8754,7 column names provided for a DataFrame of width 5,2024-07-19 01:04:58.970709
+7323,7 column names provided for a DataFrame of width 5,2024-07-19 01:05:00.943956
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-19 01:11:58.134971
+8528,7 column names provided for a DataFrame of width 5,2024-07-20 00:35:17.002210
+8552,7 column names provided for a DataFrame of width 5,2024-07-20 00:35:18.488161
+8540,7 column names provided for a DataFrame of width 5,2024-07-20 00:35:46.660110
+9123,7 column names provided for a DataFrame of width 5,2024-07-20 00:39:18.905846
+3826,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-20 00:44:37.002071
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-20 00:48:15.104615
+1943,7 column names provided for a DataFrame of width 10,2024-07-20 00:54:16.408261
+7699,7 column names provided for a DataFrame of width 5,2024-07-20 00:59:12.419888
+7323,7 column names provided for a DataFrame of width 5,2024-07-20 01:06:29.955583
+8754,7 column names provided for a DataFrame of width 5,2024-07-20 01:06:31.987509
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-20 01:12:27.059346
+8528,7 column names provided for a DataFrame of width 5,2024-07-23 00:49:45.180608
+8552,7 column names provided for a DataFrame of width 5,2024-07-23 00:49:51.390114
+8540,7 column names provided for a DataFrame of width 5,2024-07-23 00:51:31.266827
+9123,7 column names provided for a DataFrame of width 5,2024-07-23 00:58:22.202377
+3826,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-23 01:07:43.581457
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-23 01:09:11.780357
+1943,7 column names provided for a DataFrame of width 10,2024-07-23 01:10:41.117895
+7699,7 column names provided for a DataFrame of width 5,2024-07-23 01:14:08.434569
+8754,7 column names provided for a DataFrame of width 5,2024-07-23 01:24:41.995128
+7323,7 column names provided for a DataFrame of width 5,2024-07-23 01:24:43.337698
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-23 01:29:48.615325
+8528,7 column names provided for a DataFrame of width 5,2024-07-24 00:35:13.974253
+8552,7 column names provided for a DataFrame of width 5,2024-07-24 00:35:17.315868
+8540,7 column names provided for a DataFrame of width 5,2024-07-24 00:35:45.277508
+9123,7 column names provided for a DataFrame of width 5,2024-07-24 00:39:04.581087
+3826,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-24 00:44:20.084791
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-24 00:46:00.173868
+1943,7 column names provided for a DataFrame of width 10,2024-07-24 00:47:42.173948
+7699,7 column names provided for a DataFrame of width 5,2024-07-24 00:51:26.770770
+8754,7 column names provided for a DataFrame of width 5,2024-07-24 00:58:09.803121
+7323,7 column names provided for a DataFrame of width 5,2024-07-24 00:58:12.825675
+7077,unable to append to a DataFrame of width 6 with a DataFrame of width 7,2024-07-24 01:03:33.136198

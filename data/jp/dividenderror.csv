@@ -1,0 +1,123 @@
+Symbol,Error,Time
+2289,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:19.901126
+2538,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:20.757404
+2906,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.306864
+2912,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.410138
+5701,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.595631
+3432,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.749041
+5739,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.777115
+5738,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.902446
+5804,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:21.971631
+5812,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:22.012744
+6708,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:22.989337
+6657,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:23.020420
+6738,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:23.482649
+6812,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:23.908781
+6842,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:24.772077
+6868,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:25.031768
+6885,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:25.118999
+6893,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:25.161111
+6900,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:25.340588
+6922,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:25.925142
+8328,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:28.574185
+8528,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:29.289088
+8556,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:29.382335
+8561,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:29.472575
+5407,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:30.022037
+5479,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:30.038077
+5641,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:30.978754
+5919,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:31.260504
+5954,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:31.814977
+5450,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:32.424599
+4233,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:33.187627
+5605,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:33.207681
+7223,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:33.367104
+7221,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:33.652863
+8607,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:34.410880
+8606,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:34.454998
+8749,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:34.572308
+8738,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:34.823979
+8702,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:34.868096
+3585,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:35.106731
+3605,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:35.443625
+6667,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:35.602046
+7756,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:36.454313
+5016,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:36.573630
+5001,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:36.823293
+9174,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:36.859389
+6162,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:37.818940
+6374,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:39.807226
+6401,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:40.090980
+3752,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:42.838286
+4835,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:48.971205
+9411,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:31:50.017988
+2289,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:26.088594
+2538,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:26.547379
+2906,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:26.978525
+2912,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.080796
+5701,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.219164
+3432,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.320434
+5739,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.335474
+5738,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.457799
+5804,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.490887
+5812,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:27.507932
+6708,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:28.263943
+6657,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:28.274971
+6738,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:28.682053
+6812,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:28.901677
+6842,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.257584
+6868,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.373895
+6885,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.408987
+6893,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.440070
+6900,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.515269
+6922,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:29.789999
+8328,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:32.199405
+8528,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.058692
+8556,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.156951
+8561,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.267245
+5407,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.570049
+5479,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.577068
+5641,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:33.903937
+5919,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:34.143574
+5954,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:34.407276
+5450,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:34.652928
+4233,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:34.927658
+5605,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:34.958741
+7223,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:35.050987
+7221,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:35.162283
+8607,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:35.980459
+8606,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:36.019562
+8749,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:36.181993
+8738,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:36.465748
+8702,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:36.498838
+3585,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:36.742484
+3605,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:37.108459
+6667,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:37.243817
+7756,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:37.817341
+5016,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:37.881512
+5001,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:38.136189
+9174,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:33:38.146216
+8702,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:21.654316
+6667,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:22.112535
+3752,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:26.248531
+4835,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:30.449613
+3049,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:34.987863
+3060,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:35.227499
+3351,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:35.726827
+8187,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:36.772607
+2766,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:37.773268
+8866,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:43.815335
+4744,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:43.944676
+2333,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:44.759843
+2392,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:44.927288
+2478,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:45.232099
+2496,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:45.475747
+3813,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:45.536910
+3838,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:45.552952
+4311,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:45.607096
+4747,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:46.144525
+5345,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:49.424245
+8426,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:36:49.806262
+8702,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:37:47.383172
+4744,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:38:07.804199
+4744,"(""Could not convert '赤字' with type str: tried to convert to int64"", 'Conversion failed for column ichikabuhaitou with type object')",2024-07-26 13:42:51.940182

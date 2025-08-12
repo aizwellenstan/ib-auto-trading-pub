@@ -1,0 +1,218 @@
+rootPath = "../"
+import sys
+sys.path.append(rootPath)
+from modules.aiztradingview import GetPortfolioAttr
+
+sectorList = [
+    "Commercial Services",
+    "Communications",
+    "Consumer Durables",
+    "Consumer Non-Durables",
+    "Consumer Services",
+    "Distribution Services",
+    "Electronic Technology",
+    "Energy Minerals",
+    "Finance",
+    "Health Services",
+    "Health Technology",
+    "Industrial Services",
+    "Miscellaneous",
+    "Non-Energy Minerals", 
+    "Process Industries",
+    "Producer Manufacturing",
+    "Retail Trade",
+    "Technology Services",
+    "Transportation",
+    "Utilities"
+]
+
+industryList = [
+    "Advertising/Marketing Services",
+    "Aerospace & Defense",
+    "Agricultural Commodities/Milling",
+    "Air Freight/Couriers",
+    "Airlines",
+    "Alternative Power Generation",
+    "Aluminum",
+    "Apparel/Footwear",
+    "Apparel/Footwear Retail",
+    "Auto Parts: OEM",
+    "Automotive Aftermarket",
+    "Beverages: Alcoholic",
+    "Beverages: Non-Alcoholic",
+    "Biotechnology",
+    "Broadcasting",
+    "Building Products",
+    "Cable/Satellite TV",
+    "Casinos/Gaming",
+    "Catalog/Specialty Distribution",
+    "Chemicals: Agricultural",
+    "Chemicals: Major Diversified",
+    "Chemicals: Specialty",
+    "Coal",
+    "Commercial Printing/Forms",
+    "Computer Communications",
+    "Computer Peripherals",
+    "Computer Processing Hardware",
+    "Construction Materials",
+    "Consumer Sundries",
+    "Containers/Packaging",
+    "Contract Drilling",
+    "Data Processing Services",
+    "Department Stores",
+    "Discount Stores",
+    "Drugstore Chains",
+    "Electric Utilities",
+    "Electrical Products",
+    "Electronic Components",
+    "Electronic Equipment/Instruments",
+    "Electronic Production Equipment",
+    "Electronics Distributors",
+    "Electronics/Appliance Stores",
+    "Electronics/Appliances",
+    "Engineering & Construction",
+    "Environmental Services",
+    "Finance/Rental/Leasing",
+    "Financial Conglomerates",
+    "Financial Publishing/Services",
+    "Food Distributors",
+    "Food Retail",
+    "Food: Major Diversified",
+    "Food: Meat/Fish/Dairy",
+    "Food: Specialty/Candy",
+    "Forest Products",
+    "Gas Distributors",
+    "Home Furnishings",
+    "Home Improvement Chains",
+    "Homebuilding",
+    "Hospital/Nursing Management",
+    "Hotels/Resorts/Cruise lines",
+    "Household/Personal Care",
+    "Industrial Conglomerates",
+    "Industrial Machinery",
+    "Industrial Specialties",
+    "Information Technology Services",
+    "Insurance Brokers/Services",
+    "Integrated Oil",
+    "Internet Retail",
+    "Internet Software/Services",
+    "Investment Banks/Brokers",
+    "Investment Managers",
+    "Investment Trusts/Mutual Funds",
+    "Life/Health Insurance",
+    "Major Banks",
+    "Major Telecommunications",
+    "Managed Health Care",
+    "Marine Shipping",
+    "Media Conglomerates",
+    "Medical Distributors",
+    "Medical Specialties",
+    "Medical/Nursing Services",
+    "Metal Fabrication",
+    "Miscellaneous",
+    "Miscellaneous Commercial Services",
+    "Miscellaneous Manufacturing",
+    "Motor Vehicles",
+    "Movies/Entertainment",
+    "Multi-Line Insurance",
+    "Office Equipment/Supplies",
+    "Oil & Gas Pipelines",
+    "Oil & Gas Production",
+    "Oil Refining/Marketing",
+    "Oilfield Services/Equipment",
+    "Other Consumer Services",
+    "Other Consumer Specialties",
+    "Other Metals/Minerals", 
+    "Other Transportation",
+    "Packaged Software",
+    "Personnel Services",
+    "Pharmaceuticals: Generic",
+    "Pharmaceuticals: Major",
+    "Pharmaceuticals: Other",
+    "Precious Metals",
+    "Property/Casualty Insurance",
+    "Publishing: Books/Magazines",
+    "Publishing: Newspapers",
+    "Pulp & Paper",
+    "Railroads",
+    "Real Estate Development",
+    "Real Estate Investment Trusts",
+    "Recreational Products",
+    "Regional Banks",
+    "Restaurants",
+    "Savings Banks",
+    "Semiconductors",
+    "Services to the Health Industry",
+    "Specialty Insurance",
+    "Specialty Stores",
+    "Specialty Telecommunications",
+    "Steel",
+    "Telecommunications Equipment",
+    "Textiles",
+    "Tobacco",
+    "Tools & Hardware",
+    "Trucking",
+    "Trucks/Construction/Farm Machinery",
+    "Water Utilities",
+    "Wholesale Distributors",
+    "Wireless Telecommunications"
+]
+
+res = {
+    'sector': ['Energy Minerals'],
+    'industry': ['Coal', 'Oil & Gas Production', 'Oil Refining/Marketing', 'Contract Drilling', 'Integrated Oil', 'Catalog/Specialty Distribution', 'Marine Shipping', 'Steel', 'Oil & Gas Pipelines', 'Pulp & Paper', 'Food Retail', 'Gas Distributors'],
+    'earnings_per_share_basic_ttm': 52.2296,
+    'current_ratio': 401.10544114,
+    'dividends_paid': -12858000000,
+    'dps_common_stock_prim_issue_fy': 10.5,
+    'dividends_per_share_fq': 2.2,
+    'ebitda': 47827000000,
+    'enterprise_value_fq': 1901410000000,
+    'earnings_per_share_fq': 5.26,
+    'earnings_per_share_diluted_ttm': 52.319,
+    'earnings_per_share_forecast_next_fq': 4.650826,
+    'goodwill': 77945000000,
+    'last_annual_revenue': 132931184493.311,
+    'market_cap_basic': 1774381672360.0002,
+    'net_income': 89795000000,
+    'quick_ratio': 399.14362271,
+    'ROC': 59.48113208,
+    'revenue_per_employee': 2142640.71856287,
+    # 'float_shares_outstanding': 127689.05472
+    'total_revenue': 132931184493.311,
+    # 'total_liabilities_fy': 60000,
+    # 'total_liabilities_fq': 56000
+    # 'Value.Traded': 8301862424.52
+}
+
+attrList = []
+attr = "earnings_per_share_diluted_ttm"
+portfolio, attrDict = GetPortfolioAttr(attr)
+for k, v in attrDict.items():
+    if v not in attrList:
+        attrList.append(v)
+print(attrList)
+
+resDict = {}
+for attr in attrList:
+    filterDict = {}
+    for k, v in portfolio.items():
+        if attrDict[k] > attr:
+            filterDict[k] = v
+    if len(filterDict) < 1: continue
+    vol = 1/len(filterDict)
+    total = 0
+    for k, v in filterDict.items():
+        performance = 1 + v/100
+        total += vol * performance
+    resDict[attr] = total
+
+resDict = dict(sorted(resDict.items(), key=lambda item: item[1], reverse=True))
+print(resDict)
+resList = []
+for k, v in resDict.items():
+    if v > 1:
+        resList.append(k)
+print(resList)
+resList.sort(reverse=True)
+print(resList)

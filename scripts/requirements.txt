@@ -1,0 +1,6 @@
+quart
+redis
+requests
+pyyaml
+pandas
+ib_insync

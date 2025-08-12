@@ -1,0 +1,393 @@
+Symbol,Error,Time
+2262,6 column names provided for a DataFrame of width 9,2024-06-24 16:06:03.047601
+2202,int too big to convert,2024-06-24 16:06:03.556953
+2589,"could not create a new DataFrame: series ""column_0"" has length 2 while series ""column_6"" has length 1",2024-06-24 16:06:03.793582
+2289,"could not create a new DataFrame: series ""column_0"" has length 3 while series ""column_6"" has length 1",2024-06-24 16:06:04.365282
+2052,"could not create a new DataFrame: series ""column_0"" has length 6 while series ""column_6"" has length 2",2024-06-24 16:06:04.706190
+2261,int too big to convert,2024-06-24 16:06:05.125300
+1384,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 4",2024-06-24 16:06:05.531384
+2056,"could not create a new DataFrame: series ""column_0"" has length 6 while series ""column_6"" has length 2",2024-06-24 16:06:05.854243
+2585,"could not create a new DataFrame: series ""column_0"" has length 4 while series ""column_6"" has length 1",2024-06-24 16:06:06.148022
+2006,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 2",2024-06-24 16:06:06.531042
+2580,int too big to convert,2024-06-24 16:06:07.446475
+2008,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 2",2024-06-24 16:06:07.819466
+2611,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 2",2024-06-24 16:06:08.230559
+2296,int too big to convert,2024-06-24 16:06:08.651678
+2230,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 1",2024-06-24 16:06:08.932426
+2228,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 1",2024-06-24 16:06:09.218185
+2538,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 1",2024-06-24 16:06:09.512974
+2608,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 1",2024-06-24 16:06:09.786701
+2001,int too big to convert,2024-06-24 16:06:11.366902
+2204,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 3",2024-06-24 16:06:11.725857
+2215,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:06:12.350520
+2579,int too big to convert,2024-06-24 16:06:12.920037
+2533,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:06:13.298039
+2112,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:13.692086
+2218,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:14.209462
+2211,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:14.494217
+2587,int too big to convert,2024-06-24 16:06:15.640099
+2286,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:16.235684
+2588,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 3",2024-06-24 16:06:16.939553
+2599,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 5",2024-06-24 16:06:17.552184
+2291,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:18.034469
+2270,int too big to convert,2024-06-24 16:06:18.614006
+2004,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:19.702903
+2107,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:20.190204
+2293,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:20.588261
+2224,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:21.142732
+2502,int too big to convert,2024-06-24 16:06:21.793463
+2551,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:06:22.313848
+2288,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:22.832228
+2209,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:23.148101
+2267,int too big to convert,2024-06-24 16:06:23.589243
+2221,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:24.170788
+2281,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 4",2024-06-24 16:06:24.907751
+2269,int too big to convert,2024-06-24 16:06:25.218575
+2201,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:26.708535
+2212,int too big to convert,2024-06-24 16:06:27.270034
+2893,"could not create a new DataFrame: series ""column_0"" has length 4 while series ""column_6"" has length 1",2024-06-24 16:06:27.634998
+2503,int too big to convert,2024-06-24 16:06:27.880655
+2002,int too big to convert,2024-06-24 16:06:28.358923
+2222,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:28.545419
+2109,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:06:29.075831
+2229,int too big to convert,2024-06-24 16:06:29.495948
+2531,int too big to convert,2024-06-24 16:06:29.822817
+2820,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 1",2024-06-24 16:06:30.311119
+2805,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 4",2024-06-24 16:06:30.700151
+2602,int too big to convert,2024-06-24 16:06:31.032033
+2206,int too big to convert,2024-06-24 16:06:31.372942
+2501,int too big to convert,2024-06-24 16:06:33.037367
+2282,int too big to convert,2024-06-24 16:06:33.740240
+2802,int too big to convert,2024-06-24 16:06:34.070115
+2264,int too big to convert,2024-06-24 16:06:34.490235
+2597,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:35.150991
+2913,6 column names provided for a DataFrame of width 9,2024-06-24 16:06:35.381601
+2810,int too big to convert,2024-06-24 16:06:36.108534
+2607,int too big to convert,2024-06-24 16:06:36.463479
+2809,int too big to convert,2024-06-24 16:06:36.741221
+2593,int too big to convert,2024-06-24 16:06:38.184055
+2801,int too big to convert,2024-06-24 16:06:38.600162
+2912,"could not create a new DataFrame: series ""column_0"" has length 3 while series ""column_6"" has length 1",2024-06-24 16:06:38.978171
+5739,6 column names provided for a DataFrame of width 9,2024-06-24 16:06:40.363856
+5804,6 column names provided for a DataFrame of width 9,2024-06-24 16:06:41.039650
+2818,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 4",2024-06-24 16:06:41.324407
+5701,int too big to convert,2024-06-24 16:06:43.051001
+3432,"could not append value: 15155300000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:06:43.761894
+5738,int too big to convert,2024-06-24 16:06:44.223115
+5858,6 column names provided for a DataFrame of width 11,2024-06-24 16:06:45.019233
+2937,"could not create a new DataFrame: series ""column_0"" has length 3 while series ""column_6"" has length 2",2024-06-24 16:06:45.446372
+5934,6 column names provided for a DataFrame of width 9,2024-06-24 16:06:45.777249
+2933,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 1",2024-06-24 16:06:46.285602
+2932,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 2",2024-06-24 16:06:46.641549
+2876,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:47.727438
+5812,int too big to convert,2024-06-24 16:06:47.983117
+2875,int too big to convert,2024-06-24 16:06:48.316001
+2877,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:48.849420
+2871,int too big to convert,2024-06-24 16:06:49.110114
+2882,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:06:49.408912
+2905,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 1",2024-06-24 16:06:49.897209
+2897,int too big to convert,2024-06-24 16:06:50.596101
+2931,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 2",2024-06-24 16:06:51.410231
+2904,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:06:51.700005
+5703,int too big to convert,2024-06-24 16:06:52.050935
+2925,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 2",2024-06-24 16:06:52.299597
+2901,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:06:54.141497
+2924,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:54.407202
+2903,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:06:55.135137
+2930,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 6",2024-06-24 16:06:55.549244
+6232,"could not create a new DataFrame: series ""column_0"" has length 7 while series ""column_6"" has length 2",2024-06-24 16:06:56.542882
+2926,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:06:57.295884
+2915,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 4",2024-06-24 16:06:57.657847
+2914,int too big to convert,2024-06-24 16:06:59.300215
+2927,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 5",2024-06-24 16:06:59.960972
+6525,int too big to convert,2024-06-24 16:07:00.262775
+4404,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:07:00.706956
+2923,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 5",2024-06-24 16:07:01.222327
+5724,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:07:01.832216
+6600,int too big to convert,2024-06-24 16:07:02.161091
+2918,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 4",2024-06-24 16:07:03.028393
+5807,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 2",2024-06-24 16:07:03.515688
+5715,"could not append value: 11085100000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:07:03.982935
+5714,int too big to convert,2024-06-24 16:07:05.989267
+5741,int too big to convert,2024-06-24 16:07:06.481576
+6523,int too big to convert,2024-06-24 16:07:07.015997
+5706,int too big to convert,2024-06-24 16:07:07.506301
+5726,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:07:07.904360
+5711,int too big to convert,2024-06-24 16:07:09.191785
+5802,int too big to convert,2024-06-24 16:07:09.696126
+5803,int too big to convert,2024-06-24 16:07:11.079808
+5805,"could not append value: 9682500000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:07:11.534014
+5713,int too big to convert,2024-06-24 16:07:12.021313
+5851,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 4",2024-06-24 16:07:12.546707
+6502,int too big to convert,2024-06-24 16:07:12.864552
+5801,int too big to convert,2024-06-24 16:07:13.847165
+6614,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 2",2024-06-24 16:07:14.306387
+5857,int too big to convert,2024-06-24 16:07:14.891947
+5852,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:07:15.238867
+4062,int too big to convert,2024-06-24 16:07:17.017851
+4902,int too big to convert,2024-06-24 16:07:17.366779
+6671,6 column names provided for a DataFrame of width 9,2024-06-24 16:07:17.799931
+6501,int too big to convert,2024-06-24 16:07:18.337364
+6503,int too big to convert,2024-06-24 16:07:18.988096
+6665,int too big to convert,2024-06-24 16:07:19.801257
+6507,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:07:20.436947
+6506,int too big to convert,2024-06-24 16:07:20.852049
+6504,int too big to convert,2024-06-24 16:07:21.493755
+6448,int too big to convert,2024-06-24 16:07:22.059259
+6508,int too big to convert,2024-06-24 16:07:23.790864
+3105,int too big to convert,2024-06-24 16:07:24.157841
+6592,int too big to convert,2024-06-24 16:07:24.535846
+6479,int too big to convert,2024-06-24 16:07:25.102355
+6588,int too big to convert,2024-06-24 16:07:25.702950
+6615,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 5",2024-06-24 16:07:26.120059
+6620,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 2",2024-06-24 16:07:26.484030
+6618,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 2",2024-06-24 16:07:26.885094
+6699,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 1",2024-06-24 16:07:27.358352
+6625,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 4",2024-06-24 16:07:28.559547
+6594,int too big to convert,2024-06-24 16:07:29.087952
+6759,6 column names provided for a DataFrame of width 9,2024-06-24 16:07:29.948240
+6696,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 2",2024-06-24 16:07:30.291152
+6627,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:07:30.767420
+6632,int too big to convert,2024-06-24 16:07:31.258727
+6719,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 1",2024-06-24 16:07:32.019754
+6716,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 1",2024-06-24 16:07:32.335589
+6622,int too big to convert,2024-06-24 16:07:32.768741
+6658,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:07:33.248016
+6645,int too big to convert,2024-06-24 16:07:34.558502
+6694,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 2",2024-06-24 16:07:35.105957
+6709,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 1",2024-06-24 16:07:35.377679
+6702,int too big to convert,2024-06-24 16:07:37.216571
+6677,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:07:37.580543
+6730,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:07:38.169105
+6674,int too big to convert,2024-06-24 16:07:38.840891
+6703,int too big to convert,2024-06-24 16:07:40.741947
+6707,int too big to convert,2024-06-24 16:07:41.312468
+6721,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:07:41.728571
+6701,int too big to convert,2024-06-24 16:07:42.237931
+6818,"could not create a new DataFrame: series ""column_0"" has length 2 while series ""column_6"" has length 1",2024-06-24 16:07:42.920742
+6728,int too big to convert,2024-06-24 16:07:43.452155
+6723,int too big to convert,2024-06-24 16:07:43.799078
+6740,int too big to convert,2024-06-24 16:07:44.177083
+6724,int too big to convert,2024-06-24 16:07:45.222865
+6757,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:07:46.982547
+6796,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 1",2024-06-24 16:07:47.775654
+6773,int too big to convert,2024-06-24 16:07:48.357204
+6753,int too big to convert,2024-06-24 16:07:49.079120
+6769,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:07:49.838141
+6758,int too big to convert,2024-06-24 16:07:50.388603
+6752,int too big to convert,2024-06-24 16:07:50.826773
+6762,int too big to convert,2024-06-24 16:07:51.416337
+6778,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:07:52.804030
+6755,int too big to convert,2024-06-24 16:07:53.424677
+6770,int too big to convert,2024-06-24 16:07:53.926011
+6787,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:07:55.629544
+6878,"could not create a new DataFrame: series ""column_0"" has length 6 while series ""column_6"" has length 3",2024-06-24 16:07:56.030608
+6806,int too big to convert,2024-06-24 16:07:56.810688
+6852,"could not create a new DataFrame: series ""column_0"" has length 12 while series ""column_6"" has length 2",2024-06-24 16:07:57.469435
+6810,int too big to convert,2024-06-24 16:07:57.963750
+6817,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 4",2024-06-24 16:08:00.658923
+6837,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:01.153235
+6845,int too big to convert,2024-06-24 16:08:02.088222
+6895,"could not create a new DataFrame: series ""column_0"" has length 10 while series ""column_6"" has length 1",2024-06-24 16:08:02.791095
+6861,int too big to convert,2024-06-24 16:08:03.299444
+6841,int too big to convert,2024-06-24 16:08:03.747636
+6857,int too big to convert,2024-06-24 16:08:05.624628
+6856,int too big to convert,2024-06-24 16:08:06.411721
+6869,int too big to convert,2024-06-24 16:08:07.177759
+6890,int too big to convert,2024-06-24 16:08:09.218185
+6920,int too big to convert,2024-06-24 16:08:09.677408
+6925,int too big to convert,2024-06-24 16:08:10.381279
+6928,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:11.386953
+6923,int too big to convert,2024-06-24 16:08:13.289011
+6972,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 1",2024-06-24 16:08:13.771295
+6954,int too big to convert,2024-06-24 16:08:14.232522
+9518,int too big to convert,2024-06-24 16:08:15.204110
+6952,int too big to convert,2024-06-24 16:08:15.941782
+6955,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:16.342850
+6937,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:17.114901
+6963,int too big to convert,2024-06-24 16:08:17.561089
+6965,int too big to convert,2024-06-24 16:08:18.384279
+9542,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 1",2024-06-24 16:08:20.367552
+9540,"could not create a new DataFrame: series ""column_0"" has length 7 while series ""column_6"" has length 1",2024-06-24 16:08:21.300032
+9519,int too big to convert,2024-06-24 16:08:21.887594
+6967,int too big to convert,2024-06-24 16:08:22.403967
+9544,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 1",2024-06-24 16:08:22.932374
+6981,int too big to convert,2024-06-24 16:08:23.637247
+6971,int too big to convert,2024-06-24 16:08:24.306027
+6993,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 4",2024-06-24 16:08:24.626880
+9504,int too big to convert,2024-06-24 16:08:26.179007
+9506,int too big to convert,2024-06-24 16:08:26.648256
+9513,int too big to convert,2024-06-24 16:08:27.056343
+7280,int too big to convert,2024-06-24 16:08:27.612824
+7752,int too big to convert,2024-06-24 16:08:28.548313
+7751,int too big to convert,2024-06-24 16:08:28.964415
+7244,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:29.376512
+9502,int too big to convert,2024-06-24 16:08:29.957057
+7276,int too big to convert,2024-06-24 16:08:30.505515
+6976,int too big to convert,2024-06-24 16:08:30.895553
+9508,int too big to convert,2024-06-24 16:08:32.334378
+9514,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:08:32.947007
+9501,int too big to convert,2024-06-24 16:08:33.423274
+9535,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:08:33.881493
+9505,int too big to convert,2024-06-24 16:08:34.497131
+7735,int too big to convert,2024-06-24 16:08:34.969387
+8035,int too big to convert,2024-06-24 16:08:35.367445
+9503,int too big to convert,2024-06-24 16:08:35.883822
+9511,int too big to convert,2024-06-24 16:08:36.648853
+9507,int too big to convert,2024-06-24 16:08:38.521839
+9509,int too big to convert,2024-06-24 16:08:38.916894
+9536,int too big to convert,2024-06-24 16:08:39.307932
+9543,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:08:39.702979
+9534,"could not append value: 9728528000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:08:40.372761
+9532,int too big to convert,2024-06-24 16:08:40.707648
+5832,int too big to convert,2024-06-24 16:08:41.214996
+9047,"could not create a new DataFrame: series ""column_0"" has length 7 while series ""column_6"" has length 1",2024-06-24 16:08:41.822613
+9531,int too big to convert,2024-06-24 16:08:42.479363
+5831,int too big to convert,2024-06-24 16:08:43.195267
+9533,int too big to convert,2024-06-24 16:08:43.868056
+9539,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 3",2024-06-24 16:08:45.461291
+9147,int too big to convert,2024-06-24 16:08:45.920515
+5830,int too big to convert,2024-06-24 16:08:46.554201
+7321,int too big to convert,2024-06-24 16:08:46.893098
+9024,int too big to convert,2024-06-24 16:08:47.180867
+9056,"could not create a new DataFrame: series ""column_0"" has length 7 while series ""column_6"" has length 1",2024-06-24 16:08:47.595972
+9008,int too big to convert,2024-06-24 16:08:47.959935
+2384,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 1",2024-06-24 16:08:48.361007
+9014,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 1",2024-06-24 16:08:48.766083
+9009,int too big to convert,2024-06-24 16:08:49.104981
+9001,int too big to convert,2024-06-24 16:08:49.580244
+7380,int too big to convert,2024-06-24 16:08:50.066539
+9005,int too big to convert,2024-06-24 16:08:50.374356
+9003,int too big to convert,2024-06-24 16:08:50.875690
+9012,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:08:52.376682
+9020,int too big to convert,2024-06-24 16:08:52.875008
+9382,"could not create a new DataFrame: series ""column_0"" has length 3 while series ""column_6"" has length 1",2024-06-24 16:08:53.179818
+9010,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:08:53.688171
+9537,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 3",2024-06-24 16:08:53.992010
+9031,int too big to convert,2024-06-24 16:08:54.432149
+9027,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:08:54.619647
+7337,int too big to convert,2024-06-24 16:08:55.038766
+7389,int too big to convert,2024-06-24 16:08:55.242307
+9007,int too big to convert,2024-06-24 16:08:55.467908
+7381,int too big to convert,2024-06-24 16:08:55.774719
+9022,int too big to convert,2024-06-24 16:08:55.989293
+9145,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 1",2024-06-24 16:08:56.349248
+7327,int too big to convert,2024-06-24 16:08:57.211541
+7180,int too big to convert,2024-06-24 16:08:59.114602
+9006,int too big to convert,2024-06-24 16:08:59.547758
+9033,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:00.236590
+9034,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:00.833173
+9021,int too big to convert,2024-06-24 16:09:01.559104
+9029,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:09:02.477167
+9025,"could not append value: 10102600000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:02.934386
+9099,"could not create a new DataFrame: series ""column_0"" has length 8 while series ""column_6"" has length 1",2024-06-24 16:09:03.388591
+9037,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:04.939721
+9035,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:05.404954
+7186,int too big to convert,2024-06-24 16:09:06.052678
+9057,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 3",2024-06-24 16:09:06.654278
+8328,int too big to convert,2024-06-24 16:09:07.109488
+9062,int too big to convert,2024-06-24 16:09:07.813363
+7189,int too big to convert,2024-06-24 16:09:09.099780
+9049,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:09.471770
+9143,int too big to convert,2024-06-24 16:09:10.006193
+9059,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:09:10.715076
+9017,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:11.228443
+9142,int too big to convert,2024-06-24 16:09:11.769883
+9039,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:09:12.287258
+7173,int too big to convert,2024-06-24 16:09:13.499482
+7167,int too big to convert,2024-06-24 16:09:14.092057
+9048,int too big to convert,2024-06-24 16:09:14.736772
+9042,int too big to convert,2024-06-24 16:09:15.346394
+9045,int too big to convert,2024-06-24 16:09:15.897346
+7161,"could not append value: 9504700000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:16.295404
+9044,int too big to convert,2024-06-24 16:09:16.824836
+9060,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:18.199472
+9063,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:18.816108
+9064,int too big to convert,2024-06-24 16:09:19.326470
+9077,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 1",2024-06-24 16:09:19.784684
+9090,"could not create a new DataFrame: series ""column_0"" has length 13 while series ""column_6"" has length 2",2024-06-24 16:09:20.352194
+9068,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 4",2024-06-24 16:09:20.746242
+9073,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:21.470167
+9041,int too big to convert,2024-06-24 16:09:22.735534
+9046,"could not append value: 9598400000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:23.357185
+9052,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:23.833451
+9051,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:24.256577
+9065,int too big to convert,2024-06-24 16:09:24.853165
+9069,int too big to convert,2024-06-24 16:09:25.334448
+9070,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 3",2024-06-24 16:09:25.933036
+9067,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:26.517591
+9074,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:09:26.991851
+9076,int too big to convert,2024-06-24 16:09:28.299334
+9082,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 1",2024-06-24 16:09:28.986155
+9086,int too big to convert,2024-06-24 16:09:29.784282
+9081,"could not append value: 12555400000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:30.103127
+9078,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 4",2024-06-24 16:09:30.569366
+9072,int too big to convert,2024-06-24 16:09:31.260204
+9075,int too big to convert,2024-06-24 16:09:31.696364
+8308,int too big to convert,2024-06-24 16:09:32.479447
+8306,int too big to convert,2024-06-24 16:09:32.923629
+8309,int too big to convert,2024-06-24 16:09:33.457047
+8316,int too big to convert,2024-06-24 16:09:35.145538
+8524,int too big to convert,2024-06-24 16:09:35.932630
+8354,int too big to convert,2024-06-24 16:09:36.433963
+5645,"could not create a new DataFrame: series ""column_0"" has length 2 while series ""column_6"" has length 1",2024-06-24 16:09:37.019521
+8377,int too big to convert,2024-06-24 16:09:37.672257
+5479,"could not create a new DataFrame: series ""column_0"" has length 4 while series ""column_6"" has length 1",2024-06-24 16:09:38.295920
+5606,"could not append value: 10878200000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:39.194306
+5407,int too big to convert,2024-06-24 16:09:39.704663
+5413,int too big to convert,2024-06-24 16:09:40.284208
+5690,"could not create a new DataFrame: series ""column_0"" has length 3 while series ""column_6"" has length 2",2024-06-24 16:09:41.741078
+5641,"could not create a new DataFrame: series ""column_0"" has length 5 while series ""column_6"" has length 2",2024-06-24 16:09:42.242415
+2962,"could not create a new DataFrame: series ""column_0"" has length 2 while series ""column_8"" has length 1",2024-06-24 16:09:42.869079
+1606,"could not create a new DataFrame: series ""column_0"" has length 9 while series ""column_6"" has length 2",2024-06-24 16:09:43.216001
+8411,int too big to convert,2024-06-24 16:09:43.755437
+8418,int too big to convert,2024-06-24 16:09:44.319937
+8713,"could not create a new DataFrame: series ""column_0"" has length 14 while series ""column_6"" has length 1",2024-06-24 16:09:44.890459
+5657,"could not create a new DataFrame: series ""column_0"" has length 7 while series ""column_6"" has length 2",2024-06-24 16:09:45.175211
+8714,int too big to convert,2024-06-24 16:09:45.772806
+5919,"could not create a new DataFrame: series ""column_0"" has length 2 while series ""column_6"" has length 1",2024-06-24 16:09:46.099671
+5759,"could not create a new DataFrame: series ""column_0"" has length 4 while series ""column_6"" has length 3",2024-06-24 16:09:46.559895
+5408,"could not append value: 14877000000000000000 of type: u64 to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity",2024-06-24 16:09:47.288833
+1514,"could not create a new DataFrame: series ""column_0"" has length 15 while series ""column_6"" has length 2",2024-06-24 16:09:47.832287
+5917,"could not create a new DataFrame: series ""column_0"" has length 4 while series ""column_6"" has length 2",2024-06-24 16:09:49.493701
+1605,int too big to convert,2024-06-24 16:09:49.865687
+5406,int too big to convert,2024-06-24 16:09:50.089281
+5491,"could not create a new DataFrame: series ""column_0"" has length 16 while series ""column_6"" has length 2",2024-06-24 16:09:50.551511
+5423,int too big to convert,2024-06-24 16:09:50.881389
+5482,int too big to convert,2024-06-24 16:09:51.193219
+6592,int too big to convert,2024-06-24 16:10:12.755975
+6592,int too big to convert,2024-06-24 16:11:21.036872
+6592,int too big to convert,2024-06-24 16:16:39.833947
+7203,6 column names provided for a DataFrame of width 102,2024-06-24 16:59:34.116957
+7203,"current_assets
+
+Error originated just after this operation:
+DF [""column_0"", ""column_1"", ""column_2"", ""column_3""]; PROJECT */6 COLUMNS; SELECTION: ""None""",2024-06-24 17:04:47.646549
+7203,"current_assets
+
+Error originated just after this operation:
+DF [""column_0"", ""column_1"", ""column_2"", ""column_3""]; PROJECT */6 COLUMNS; SELECTION: ""None""",2024-06-24 17:05:29.127546
+7203,"Conversion from `f64` to `u64` failed in column 'current_assets' for 17 out of 17 values: [4.6000e22, 3.5413e24, … 3.4714e25]",2024-06-24 17:07:32.113954
+6502,Conversion from `i64` to `u64` failed in column 'total_assets' for 1 out of 16 values: [-73],2024-06-24 17:10:18.718190
+6672,Conversion from `i64` to `u64` failed in column 'total_assets' for 1 out of 8 values: [-1],2024-06-24 17:10:26.588920
+6672,Conversion from `i64` to `u64` failed in column 'total_assets' for 1 out of 8 values: [-1],2024-06-24 17:11:03.907167

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScannerTemplate autoRefresh="true">
+	<ScannerContent varName="content" version="0" watermarkWhenEmpty="false" tabIndex="-1" restoredFromLayoutLibrary="false" scannerName="Gap" pageId="-1" transferableParameter="true" locationText="STK.US" maxItems="-1" snapshot="-1" paused="false" scannerSent="true" chartDividerLocation="0" isFirstInvocation="false" isFilterOpened="true" sortingColId="-1" sortAscending="false" continuousMode="false" readOnly="false">
+		<ExtendedConfigurationMap varName="extendedConfiguration">
+			<String>FXAccount Portfolio Table</String>
+			<TableConfiguration>
+				<ColumnWidthsMap varName="columnWidths"/>
+				<ColumnOrdinalsMap varName="columnOrdinals"/>
+			</TableConfiguration>
+			<String>FXAccount Portfolio Table_Sorting</String>
+			<SortableTableConfiguration column="1" ascending="false"/>
+		</ExtendedConfigurationMap>
+		<PortfolioFilterState varName="filterState" includeZero="true" includeCash="false"/>
+		<Instrument varName="instrument" name="米国株式" m_type="STK" filters="AFTERHRSCHANGEPERC,AVGOPTVOLUME,AVGPRICETARGET,AVGRATING,AVGTARGET2PRICERATIO,AVGVOLUME,AVGVOLUME_USD,CHANGEOPENPERC,CHANGEPERC,EMA_20,EMA_50,EMA_100,EMA_200,PRICE_VS_EMA_20,PRICE_VS_EMA_50,PRICE_VS_EMA_100,PRICE_VS_EMA_200,DIVIB,DIVYIELD,DIVYIELDIB,FEERATE,FIRSTTRADEDATE,GROWTHRATE,HALTED,HASOPTIONS,HISTDIVIB,HISTDIVYIELDIB,IMBALANCE,IMBALANCEADVRATIOPERC,IMPVOLAT,IMPVOLATOVERHIST,INSIDEROFFLOATPERC,INSTITUTIONALOFFLOATPERC,MACD,MACD_SIGNAL,MACD_HISTOGRAM,MKTCAP,MKTCAP_USD,NEXTDIVAMOUNT,NEXTDIVDATE,NUMPRICETARGETS,NUMRATINGS,NUMSHARESINSIDER,NUMSHARESINSTITUTIONAL,OPENGAPPERC,OPTVOLUME,OPTVOLUMEPCRATIO,PERATIO,PPO,PPO_SIGNAL,PPO_HISTOGRAM,PRICE,PRICE2BK,PRICE2TANBK,PRICERANGE,PRICE_USD,QUICKRATIO,REBATERATE,REGIMBALANCE,REGIMBALANCEADVRATIOPERC,RETEQUITY,SHORTABLESHARES,SHORTSALERESTRICTED,SIC,ISSUER_COUNTRY_CODE,SOCSACT,SOCSNET,STKTYPE,STVOLUME_3MIN,STVOLUME_5MIN,STVOLUME_10MIN,TRADECOUNT,TRADERATE,UNSHORTABLE,VOLUME,VOLUMERATE,VOLUME_USD,RCGLTCLASS,RCGLTENDDATE,RCGLTIVALUE,RCGLTTRADE,RCGITCLASS,RCGITENDDATE,RCGITIVALUE,RCGITTRADE,RCGSTCLASS,RCGSTENDDATE,RCGSTIVALUE,RCGSTTRADE,ESG_SCORE,ESG_COMBINED_SCORE,ESG_CONTROVERSIES_SCORE,ESG_RESOURCE_USE_SCORE,ESG_EMISSIONS_SCORE,ESG_ENV_INNOVATION_SCORE,ESG_WORKFORCE_SCORE,ESG_HUMAN_RIGHTS_SCORE,ESG_COMMUNITY_SCORE,ESG_PRODUCT_RESPONSIBILITY_SCORE,ESG_MANAGEMENT_SCORE,ESG_SHAREHOLDERS_SCORE,ESG_CSR_STRATEGY_SCORE,ESG_ENV_PILLAR_SCORE,ESG_SOCIAL_PILLAR_SCORE,ESG_CORP_GOV_PILLAR_SCORE,IV_RANK13,IV_RANK26,IV_RANK52,IV_PERCENTILE13,IV_PERCENTILE26,IV_PERCENTILE52,HV_RANK13,HV_RANK26,HV_RANK52,HV_PERCENTILE13,HV_PERCENTILE26,HV_PERCENTILE52,PRICE_2_SALES,EQUITY_PER_SHARE,UTILIZATION,SSCORE,SCHANGE,SVSCORE,SVCHANGE" group="STK.GLOBAL" shortName="US" cloudScanNotSupported="false"/>
+		<ScanType varName="parameter" displayName="Top % Gainers" scanCode="TOP_PERC_GAIN" instruments="STK,STOCK.NA,STOCK.EU,STOCK.ME,STOCK.HK,ETF.EQ.US,ETF.FI.US,IND.US,IND.EU,IND.HK,FUT.US,FUT.NA,FUT.EU,FUT.HK,SSF.US,SSF.NA,SSF.EU,SSF.HK,BOND" absoluteColumns="false" supportsSorting="true" respSizeLimit="#" snapshotSizeLimit="500" delayedAvail="yes" feature="PCT" searchName="% Gainers (High-Low)" searchDefault="false" access="allowed">
+			<Columns varName="columns">
+				<ColumnSetRef colId="0" name="PctPerf" display="false">
+					<displayType>DATA</displayType>
+				</ColumnSetRef>
+				<Column colId="48" name="Time in Scan" display="true">
+					<displayType>DATA</displayType>
+				</Column>
+			</Columns>
+		</ScanType>
+		<SettingValueList varName="settingList">
+			<SettingValue settingCode="annualVolatility" value="false"/>
+		</SettingValueList>
+		<AdvancedFilter varName="filter">
+			<volumeAbove>1300</volumeAbove>
+			<lastVsEMAChangeRatio50Above>0</lastVsEMAChangeRatio50Above>
+			<curMACDDistAbove>0</curMACDDistAbove>
+			<marketCapAbove1e6>1</marketCapAbove1e6>
+			<marketCapBelow1e6>300</marketCapBelow1e6>
+			<lastVsEMAChangeRatio100Above>0</lastVsEMAChangeRatio100Above>
+			<lastVsEMAChangeRatio200Above>0</lastVsEMAChangeRatio200Above>
+			<priceAbove>2</priceAbove>
+			<priceBelow>30</priceBelow>
+			<lastVsEMAChangeRatio20Above>0</lastVsEMAChangeRatio20Above>
+		</AdvancedFilter>
+	</ScannerContent>
+	<ArString varName="fullySelectedNodesList">
+		<String>STK.US</String>
+	</ArString>
+	<Columns varName="tickerColumns" type="jcolumn.TickerColumns">
+		<ContractSingleDescColumn colId="99" width="93" alignment="2" fg="-16777216" bg="-1052974" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false"/>
+		<ChangeColumn colId="16" width="65" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false" showPercent="true" prohibitDynamicColors="false"/>
+		<MarketCapitalizationColumn colId="400" width="82" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false" fieldKey="MKTCAP"/>
+		<Ema20Column colId="920" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>EMA_20</marketDataUnit>
+			<formatter>PRICE</formatter>
+		</Ema20Column>
+		<Ema50Column colId="921" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>EMA_50</marketDataUnit>
+			<formatter>PRICE</formatter>
+		</Ema50Column>
+		<MacdColumn colId="933" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>MACD</marketDataUnit>
+			<formatter>PRICE_WITH_SIGN</formatter>
+		</MacdColumn>
+		<MacdHistogramColumn colId="935" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>MACD_HISTOGRAM</marketDataUnit>
+			<formatter>PRICE_WITH_SIGN</formatter>
+		</MacdHistogramColumn>
+		<Ema200Column colId="923" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>EMA_200</marketDataUnit>
+			<formatter>PRICE</formatter>
+		</Ema200Column>
+		<MacdSignalColumn colId="934" width="65" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>MACD_SIGNAL</marketDataUnit>
+			<formatter>PRICE_WITH_SIGN</formatter>
+		</MacdSignalColumn>
+		<Ema100Column colId="922" width="60" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>EMA_100</marketDataUnit>
+			<formatter>PRICE</formatter>
+		</Ema100Column>
+		<PriceVsEma50Column colId="925" width="65" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>PRICE_VS_EMA_50</marketDataUnit>
+			<formatter>PERCENTAGE</formatter>
+		</PriceVsEma50Column>
+		<PriceVsEma100Column colId="926" width="65" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>PRICE_VS_EMA_100</marketDataUnit>
+			<formatter>PERCENTAGE</formatter>
+		</PriceVsEma100Column>
+		<PriceVsEma200Column colId="927" width="74" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>PRICE_VS_EMA_200</marketDataUnit>
+			<formatter>PERCENTAGE</formatter>
+		</PriceVsEma200Column>
+		<PriceVsEma20Column colId="924" width="65" alignment="2" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false">
+			<marketDataUnit>PRICE_VS_EMA_20</marketDataUnit>
+			<formatter>PERCENTAGE</formatter>
+		</PriceVsEma20Column>
+		<VolumeColumn colId="22" width="60" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false"/>
+		<LastPriceColumn colId="7" width="67" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false" prohibitDynamicColors="false"/>
+		<BidPriceColumn colId="4" width="60" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false" prohibitDynamicColors="false"/>
+		<AskPriceColumn colId="5" width="60" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false" prohibitDynamicColors="false"/>
+		<InScanTimeColumn colId="48" width="60" alignment="4" uniqueId="0" maxSymbolWidth="0" overrideBg="false" overrideFg="false"/>
+	</Columns>
+</ScannerTemplate>

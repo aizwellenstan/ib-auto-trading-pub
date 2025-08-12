@@ -1,0 +1,248 @@
+Symbol,Error,Time
+2585,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:56.414074
+2586,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:56.456186
+2588,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:56.743947
+2587,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:56.848260
+1384,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:57.288394
+2820,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.257971
+2932,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.308106
+2883,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.587849
+2938,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.789385
+2937,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.887645
+6522,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:58.982905
+2933,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.043060
+2931,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:03:59.165386
+5704,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.280695
+6227,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.371933
+6526,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.509298
+6523,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.625308
+6232,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.760667
+6612,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:03:59.990278
+6524,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:00.085531
+2926,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:00.108597
+5809,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:00.166747
+6613,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:00.236936
+2907,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:00.533724
+2930,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:00.658089
+6614,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:00.798433
+6616,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:01.100265
+6620,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:01.228574
+6599,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:01.430106
+6615,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:01.627636
+6617,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:01.773017
+6698,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:02.367598
+6694,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:02.573144
+6696,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:02.715522
+6721,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:02.879961
+6723,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:03.175747
+6740,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:03.513650
+6836,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:04.491244
+6810,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:04.974529
+6846,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:05.451797
+9522,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:05.964161
+9544,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:06.143638
+9542,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:06.250923
+9517,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:06.808405
+9519,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:07.002922
+9551,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:07.589481
+9145,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:07.759934
+5838,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:08.203117
+9143,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:08.692413
+7163,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:08.767648
+9142,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:08.811731
+9090,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:09.251901
+9076,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column toushicf with type object')",2024-07-26 14:04:09.745216
+2962,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:11.307367
+5690,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:11.586108
+5759,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:11.676348
+3446,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:12.088446
+3449,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:12.112512
+3445,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:12.477480
+5698,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:12.646963
+5996,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:13.023930
+7409,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:13.286628
+6224,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:13.745849
+5939,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:14.062692
+7330,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:15.822375
+9348,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:16.003852
+7342,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:16.181325
+8711,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:16.501179
+7190,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:16.600477
+7175,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:16.993489
+7172,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:17.352442
+7316,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:17.760529
+9318,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:17.867808
+3504,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:18.265870
+7736,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column toushicf with type object')",2024-07-26 14:04:18.416265
+6235,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:18.578699
+8107,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:19.188357
+3611,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:19.214390
+9204,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:19.372812
+9113,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:19.585374
+7779,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:19.635508
+7776,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:19.811010
+7711,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:19.879161
+7782,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:20.097738
+7781,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:20.413582
+9180,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:20.598071
+9201,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:20.724440
+9133,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:20.919924
+7780,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:21.079346
+9179,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:21.360097
+6234,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:21.464370
+9127,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:21.550605
+9107,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:21.687964
+6225,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:21.729073
+6228,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:21.834354
+6226,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.022861
+6223,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.126129
+9110,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:22.214364
+9130,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucfmargin with type object')",2024-07-26 14:04:22.306609
+6166,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.414898
+6229,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.520178
+1375,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.640498
+1909,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:22.714696
+6230,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:22.769842
+6233,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.043569
+6231,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.065666
+6167,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.094705
+6239,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.382470
+6238,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.481734
+6150,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column freecf with type object')",2024-07-26 14:04:23.550919
+6274,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:23.623110
+6240,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.670235
+6165,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.788550
+6237,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:23.863750
+6248,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:24.226751
+149A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.277171
+135A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.368413
+155A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.406510
+147A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.606041
+173A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.671214
+184A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.783512
+7131,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.914865
+198A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:26.953966
+215A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.046211
+145A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.105369
+6405,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column freecf with type object')",2024-07-26 14:04:27.260787
+137A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.400187
+218A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.512452
+148A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.642798
+175A,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.768135
+7317,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:27.993731
+6494,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:28.332636
+2934,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:28.352688
+2978,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:28.559234
+3565,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:28.752783
+2321,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:28.902144
+3138,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:29.000406
+3042,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:29.166849
+3669,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:29.364380
+2484,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:29.534830
+3632,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:29.714305
+3689,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:29.745390
+3679,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:29.912831
+3672,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:29.945920
+3698,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.068246
+3652,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:30.207620
+3667,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.262766
+3655,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:30.304876
+3666,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.391104
+3665,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.512426
+3694,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.541508
+3673,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.584619
+3678,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.673856
+3658,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:30.714964
+3668,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:30.778132
+3671,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.809214
+3664,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.931541
+3696,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:30.999722
+3683,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.088960
+3734,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:31.111018
+3646,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:31.128063
+3688,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.169172
+3697,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.205268
+3681,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.256404
+3641,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:31.275455
+3692,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.313557
+3674,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.385749
+3682,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.444905
+3634,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:31.462955
+3677,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.502058
+3742,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:31.584276
+3686,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.636415
+3687,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.700585
+3695,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.722643
+3691,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:31.909140
+3831,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.038487
+3723,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column toushicf with type object')",2024-07-26 14:04:32.064554
+3787,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.099645
+3772,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.194899
+3782,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.209939
+3906,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:32.362346
+3768,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.486675
+3773,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.533800
+3779,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:32.651114
+3908,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:32.733330
+3905,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:32.793494
+3913,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:32.906792
+3918,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.011100
+3902,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.061202
+3900,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column toushicf with type object')",2024-07-26 14:04:33.100306
+3917,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.179517
+3922,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.206595
+3915,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.239677
+3914,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.282793
+3982,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.344957
+3901,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.399101
+3907,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.428183
+3803,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:33.513404
+3850,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:33.541479
+3911,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.616681
+3824,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:33.641746
+3960,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.774098
+3904,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.826236
+3925,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.870353
+3926,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.912465
+3928,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:33.965607
+3903,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.008721
+3930,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.071889
+3923,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.132049
+3910,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.163135
+3912,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.218278
+3929,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.257383
+3920,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.307516
+3990,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.379709
+3963,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.443879
+3934,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.486994
+4017,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.557180
+3966,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.632380
+3931,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.657446
+4074,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.713596
+3961,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.740667
+4057,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.774758
+3932,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.794811
+4011,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.810854
+3937,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.822885
+3916,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.836923
+4018,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.848955
+3970,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.887056
+4012,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.923153
+4015,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.932177
+4073,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.946213
+3985,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.962257
+4195,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.972285
+4055,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:34.983313
+3853,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column saimucf with type object')",2024-07-26 14:04:34.995344
+4019,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:35.004368
+3927,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:35.013427
+3936,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:35.034450
+4269,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:35.042469
+3933,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column eigyoucf with type object')",2024-07-26 14:04:35.051493
+5838,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:21.987325
+7330,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:28.948831
+9204,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:31.594866
+9201,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:32.406021
+1375,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:33.613232
+3978,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:42.789628
+9434,"(""Could not convert '-' with type str: tried to convert to int64"", 'Conversion failed for column gennkinn with type object')",2024-07-26 14:08:49.597730

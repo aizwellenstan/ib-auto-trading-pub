@@ -1,0 +1,9 @@
+kenelema(src, lookback) ->
+    currentWeight = 0.
+    cumulativeweight = 0.
+    for i = 0 to 100
+        y = src[i]
+        w = math.exp(-i/lookback)
+        currentWeight += y * w
+        cumulativeweight += w
+    currentWeight / cumulativeweight

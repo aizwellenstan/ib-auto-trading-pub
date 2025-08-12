@@ -1,0 +1,1 @@
+['AGRO', 'APLS', 'BF.B', 'BRK.B', 'CASH', 'CAT', 'CSCO', 'CWEN.A', 'CYBR', 'ECOM', 'FIVE', 'GEF', 'GLAD', 'GLDD', 'GOOS', 'GPRO', 'HEI.A', 'KEYS', 'LBRT', 'LGF.A', 'LGF.B', 'LPLA', 'OIBR.C', 'OPEN', 'PBR.A', 'RDS.A', 'RDS.B', 'SMTC', 'SPCE', 'TCS', 'TRCH', 'TREX', 'USCR']

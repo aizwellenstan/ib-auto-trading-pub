@@ -1,0 +1,1 @@
+D:\Redis-8.0.0-Windows-x64-cygwin-with-Service\Redis-8.0.0-Windows-x64-cygwin-with-Service\redis-server.exe

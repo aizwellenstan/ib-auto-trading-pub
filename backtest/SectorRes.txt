@@ -1,0 +1,142 @@
+{'Pharmaceuticals: Major': 16994.251110644902, 
+'Information Technology Services': 13987.424512905694, 
+'Electronic Production Equipment': 12553.03342698896, 
+'Telecommunications Equipment': 11399.278359046099, 
+'Environmental Services': 11386.900085069097, 
+'Computer Peripherals': 10917.474045682771, 
+'Biotechnology': 10547.788951954519, 
+'Containers/Packaging': 10170.500621425417, 
+'Commercial Printing/Forms': 10051.276085014228, 
+'Trucking': 9965.404551472306, 
+'Trucks/Construction/Farm Machinery': 9720.609231865285, 
+'Industrial Machinery': 9504.708041357484, 
+'Miscellaneous Commercial Services': 9440.445501176926, 
+'Auto Parts: OEM': 9343.711107319526, 
+'Tools & Hardware': 9199.130888959027, 
+'Recreational Products': 9147.330657572033,
+'Investment Banks/Brokers': 9046.065248619247, 
+'Engineering & Construction': 8979.3906687832, 
+'Household/Personal Care': 8958.4446098799, 
+'Medical Distributors': 8930.067917365202, 
+'Electronic Equipment/Instruments': 8886.776435666457, 
+'Metal Fabrication': 8883.826217255473, 
+'Data Processing Services': 8877.688366065388, 
+'Regional Banks': 8866.608337943948, 
+'Chemicals: Major Diversified': 8850.50430618709, 
+'Automotive Aftermarket': 8815.661215413927, 
+'Computer Communications': 8803.508514188285, 
+'Forest Products': 8773.335404271202, 
+'Motor Vehicles': 8666.840912704622,
+'Steel': 8575.955310785637, 
+'Industrial Specialties': 8536.893414565237, 
+'Major Banks': 8415.394911605299, 
+'Apparel/Footwear': 8388.251806595787, 
+'Food Retail': 8385.43694908516, 
+'Other Consumer Specialties': 8311.888823000601, 
+'Movies/Entertainment': 8298.731074430912, 
+'Medical Specialties': 8261.676180321287, 
+'Office Equipment/Supplies': 8208.078074519224, 
+'Electronics/Appliances': 8189.186024460058, 
+'Pulp & Paper': 8188.986387684038, 
+'Department Stores': 8159.893736661656, 
+'Electrical Products': 8140.258559400467, 
+'Air Freight/Couriers': 8131.036219138474, 
+'Building Products': 8124.713237600582, 
+'Other Transportation': 8107.258419808454, 
+'Hotels/Resorts/Cruise lines': 8071.281311795168, 
+'Gas Distributors': 8065.110551852707, 
+'Alternative Power Generation': 8060.617663998292, 
+'Construction Materials': 8031.7845750843935, '': 8005.305634572687, 'Major Telecommunications': 8005.305634572687, 'Wireless Telecommunications': 8005.305634572687, 'Property/Casualty Insurance': 8005.305634572687, 'Tobacco': 8005.305634572687, 'Beverages: Alcoholic': 8005.305634572687, 'Multi-Line Insurance': 8005.305634572687, 'Integrated Oil': 8005.305634572687, 'Airlines': 8005.305634572687, 'Beverages: Non-Alcoholic': 8005.305634572687, 'Oil Refining/Marketing': 8005.305634572687, 'Food: Meat/Fish/Dairy': 8005.305634572687, 'Textiles': 8005.305634572687, 'Home Furnishings':
+8005.305634572687, 'Industrial Conglomerates': 8005.305634572687, 'Insurance Brokers/Services':
+8005.305634572687, 'Aluminum': 8005.305634572687, 'Casinos/Gaming': 8005.305634572687, 'Services to the Health Industry': 8005.305634572687, 'Real Estate Investment Trusts': 8005.305634572687, 'Cable/Satellite TV': 8005.305634572687, 'Oilfield Services/Equipment': 8005.305634572687, 'Catalog/Specialty Distribution': 8005.305634572687, 'Coal': 8005.305634572687, 'Consumer Sundries': 8005.305634572687, 'Specialty Insurance': 8005.305634572687, 'Media Conglomerates': 8005.305634572687, 'Pharmaceuticals: Generic': 8005.305634572687, 'Investment Trusts/Mutual Funds': 8005.305634572687, 'Publishing: Newspapers': 8005.305634572687, 'Financial Publishing/Services': 8005.305634572687, 'Drugstore Chains': 8005.011059320742, 'Apparel/Footwear Retail': 7994.020121528157, 'Hospital/Nursing Management': 7986.243593068453, 'Life/Health Insurance': 7971.8612465882425, 'Financial Conglomerates': 7936.739326350212, 'Finance/Rental/Leasing': 7903.1760521853685, 'Publishing: Books/Magazines': 7897.065283073258, 'Advertising/Marketing Services': 7894.171878357236, 'Railroads': 7893.6811008920495, 'Wholesale Distributors': 7850.453152454203, 'Broadcasting': 7833.763038282797, 'Home Improvement Chains': 7800.664817287972, 'Chemicals: Agricultural': 7798.195926588304, 'Investment Managers': 7770.902716057465, 'Marine Shipping': 7712.551932977794, 'Discount Stores': 7712.175444177618, 'Agricultural Commodities/Milling': 7703.704614336154, 'Electronic Components': 7673.554442285985, 'Internet Retail': 7650.248836304587, 'Medical/Nursing Services': 7529.252268893211, 'Other Metals/Minerals': 7455.088794282286, 'Electronics Distributors': 7440.144400072946, 'Chemicals: Specialty': 7433.17267286735, 'Packaged Software': 7399.58939658792, 'Food: Specialty/Candy': 7335.882962586731, 'Other Consumer Services': 7315.186869469261, 'Computer Processing Hardware': 7256.347571108356, 'Specialty Telecommunications': 7234.657527479084, 'Food: Major Diversified': 7211.690390668101, 'Aerospace & Defense': 7137.63746877854, 'Pharmaceuticals: Other': 7133.635131870788, 'Electronics/Appliance Stores': 6909.646127494216, 'Miscellaneous Manufacturing': 6866.687441071063, 'Personnel Services': 6827.760238318774, 'Internet Software/Services': 6779.111773605701, 'Specialty Stores': 6778.652543861457, 'Restaurants': 6763.039654734562, 'Electric Utilities': 6557.124668163641,
+'Food Distributors': 6481.370641069705, 'Homebuilding': 2895.2207980586873, 'Real Estate Development': 2038.0202439078978, 'Semiconductors': 95.46959817626745}
+
+JP 8005.30
+US 50.44
+
+Electronic Production Equipment
+JP 12353.03
+US 52.48
+
+Telecommunications Equipment
+JP 17875.08
+US 56.19
+
+Environmental Services
+JP 25885.28
+US 57.14
+
+Computer Peripherals
+JP 35301.83
+US 60.10
+
+Biotechnology
+JP 46513.68
+US 62.73
+
+Commercial Printing/Forms
+JP 55208.50
+US 62.73
+
+Trucks/Construction/Farm Machinery
+JP 67038.07
+US 64.30
+
+Auto Parts: OEM
+JP 75357.17
+US 113.93
+
+Tools & Hardware
+JP 82330.75
+US 113.93
+
+Recreational Products
+JP 106959.13
+US 120.55
+
+Metal Fabrication
+JP 113649.47
+US 120.55
+
+Forest Products
+JP 115878.21
+US 190.16
+
+Industrial Specialties
+JP 125935.92
+US 190.6
+
+Other Consumer Specialties
+JP 132823.57
+US 190.6
+
+Movies/Entertainment
+JP 133979.29
+US 227.43
+
+Medical Specialties
+JP 140899.56
+US 321.75
+
+Office Equipment/Supplies
+JP 143577.91
+US 321.75
+
+Electronics/Appliances
+JP 146187.66
+US 321.75
+
+Pulp & Paper
+JP 147426.92
+US 321.75
+
+Electrical Products
+JP 168320.7
+US 419.4
+
+Alternative Power Generation
+JP 170589.57
+US 439.99
+
+170589.57
+484.18

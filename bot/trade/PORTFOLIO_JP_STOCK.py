@@ -1,0 +1,132 @@
+rootPath = '../..'
+import sys
+sys.path.append(rootPath)
+from modules.trade.vol import GetVolSlTp, GetVolLargeSlTp
+from modules.dict import take
+from modules.aiztradingview import GetClose
+import pandas as pd
+import math
+from typing import NamedTuple
+from modules.normalizeFloat import NormalizeFloat
+from modules.aiztradingview import GetADR
+from modules.discord import Alert
+import modules.ib as ibc
+import math
+
+ibc = ibc.Ib()
+ib = ibc.GetIB(2)
+
+avalible_cash = ibc.GetAvailableCash()
+avalible_price = int(avalible_cash)/100
+print(avalible_price)
+total_cash = avalible_cash
+basicPoint = 1
+# total_cash /= 2
+
+def floor100(number):
+    return math.floor(number/100) * 100
+
+def main():
+    # optionCost = 259 + 80 + 307 + 102
+    # optionCost = 259 + 61 + 5 + 729 + 102
+    # total_cash -= optionCost
+    # total_cash /= 2
+
+    currency = 'USD'
+    # https://www.nasdaq.com/market-activity/dividends
+    portfolioPath = f'{rootPath}/data/ScannerJP.csv'
+    import os
+    portfolioDict = {}
+    if os.path.exists(portfolioPath):
+        df = pd.read_csv(portfolioPath)
+        portfolioDict = {str(key): value for key, value in df.set_index('Symbol').Close.to_dict().items()}
+
+    IS_MIN_VOL = False
+    cleanPortfolioDict = {}
+    count = 0
+    for symbol, close in portfolioDict.items():
+        if close > avalible_price and count < 1: 
+            IS_MIN_VOL = True
+            continue
+        cleanPortfolioDict[symbol] = close
+        count += 1
+    portfolioDict = cleanPortfolioDict
+    portfolioDict = {key: portfolioDict[key] for key in list(portfolioDict)[:2]}
+
+    total = 0
+    for i in range(0, len(portfolioDict)):
+        count = 0
+        if total > 0: break
+        for k, v in portfolioDict.items():
+            count += 1
+            if i == count:
+                portfolioList = take(count,portfolioDict)
+                for symbol in portfolioList:
+                    vol = floor100(int(total_cash/count/portfolioDict[symbol]))
+                    if vol < 100: 
+                        total = count-1
+    if total < 1: total = len(portfolioDict)
+    if total > 21: total = 21
+
+    print("TOTAL",total)
+    count = 0
+    tradePortfolioDict = {}
+    for symbol, v in portfolioDict.items():
+        vol = floor100(int(total_cash/total/v))
+        print(symbol,v,vol)
+        if vol < 100:
+            print(symbol,"vol < 100")
+            break
+        tradePortfolioDict[symbol] = vol
+        if IS_MIN_VOL:
+            tradePortfolioDict[symbol] = 100
+    print(tradePortfolioDict)
+    
+    tradePortfolioPath = f'{rootPath}/data/portfolioJP.csv'
+    df = pd.DataFrame()
+    df['Symbol'] = tradePortfolioDict.keys()
+    df['Vol'] = tradePortfolioDict.values()
+    df.to_csv(tradePortfolioPath)
+    # sys.exit()
+    positions = ib.positions()
+    positionDict = {}
+    for position in positions:
+        symbol = position.contract.symbol
+        position = position.position
+        positionDict[symbol] = position
+        if symbol not in tradePortfolioDict:
+            print(symbol, 'SELL')
+
+    openDict = {}    
+    for k, v in tradePortfolioDict.items():
+        if k in positionDict:
+            if int(v) > positionDict[k]:
+                print(k, 'BUY', v-positionDict[k])
+                print(positionDict[k])
+        else:
+            print(k, 'BUY', v)
+            openDict[k] = v
+
+    for symbol, vol in openDict.items():
+        print(symbol, vol)
+        # res = ibc.HandleBuyLimitTrail(symbol,vol)
+        # if res < 0:
+        #     ibc.HandleBuyLimitTrail(symbol,vol)
+        # if vol > 0: break
+        # HandleBuyMarket(symbol, vol, adrDict, currency)
+
+if __name__ == '__main__':
+    main()
+    # import cProfile
+    # cProfile.run('main()','output.dat')
+
+    # import pstats
+    # from pstats import SortKey
+
+    # with open("output_time.txt", "w") as f:
+    #     p = pstats.Stats("output.dat", stream=f)
+    #     p.sort_stats("time").print_stats()
+    
+    # with open("output_calls.txt", "w") as f:
+    #     p = pstats.Stats("output.dat", stream=f)
+    #     p.sort_stats("calls").print_stats()

@@ -1,0 +1,25 @@
+Symbol,Error,Time
+7003,"time data ""da"" doesn't match format ""%Y-%m-%d"", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.",2024-07-24 17:23:49.138977
+7003,"time data ""da"" doesn't match format ""%Y-%m-%d"", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.",2024-07-24 17:24:36.305040
+9204,Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.,2024-07-24 18:53:26.966924
+9204,Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.,2024-07-24 19:01:13.970220
+9204,"Couldn't deserialize thrift: TProtocolException: Invalid data
+Deserializing page header failed.
+",2024-07-24 19:02:42.596369
+9385,Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes,2024-07-25 09:33:35.108166
+9385,Unexpected end of stream: Page was smaller (44) than expected (52),2024-07-25 09:36:00.864230
+9385,Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.,2024-07-25 09:38:27.436414
+9385,"Could not open Parquet input source '<Buffer>': Parquet file size is 4 bytes, smaller than the minimum file footer (8 bytes)",2024-07-25 09:46:36.630838
+8919,"Couldn't deserialize thrift: TProtocolException: Invalid data
+Deserializing page header failed.
+",2024-07-25 10:02:27.630621
+8919,"Could not open Parquet input source '<Buffer>': Parquet file size is 4 bytes, smaller than the minimum file footer (8 bytes)",2024-07-25 10:05:47.981347
+8919,Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.,2024-07-25 10:12:05.157580
+8919,Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.,2024-07-25 10:17:12.071996
+8919,Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes,2024-07-25 10:22:02.290865

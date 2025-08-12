@@ -1,0 +1,13 @@
+Symbol,Error,Time
+NVDA,local variable 'df' referenced before assignment,2024-06-27 20:46:46.025624
+NVDA,local variable 'df' referenced before assignment,2024-06-27 20:47:51.754733
+NVDA,local variable 'df' referenced before assignment,2024-06-27 20:49:44.312139
+NVDA,"Index(['da'], dtype='object')",2024-06-27 20:50:24.761647
+NVDA,"Index(['da'], dtype='object')",2024-06-27 20:51:17.598851
+NVDA,"Index(['da'], dtype='object')",2024-06-27 20:53:02.225716
+NVDA,"Index(['da'], dtype='object')",2024-06-27 20:55:48.856782
+NVDA,"(""Expected bytes, got a 'float' object"", 'Conversion failed for column Full-Time Employees with type object')",2024-06-27 21:10:37.702850
+NVDA,"(""Expected bytes, got a 'float' object"", 'Conversion failed for column Full-Time Employees with type object')",2024-06-27 21:11:04.934190
+NVDA,"(""Expected bytes, got a 'float' object"", 'Conversion failed for column Full-Time Employees with type object')",2024-06-27 21:11:59.866395
+NVDA,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column Full-Time Employees with type object')",2024-06-27 21:12:26.734332
+TOPS,"(""Expected bytes, got a 'int' object"", 'Conversion failed for column Book Value Per Share with type object')",2024-06-27 22:29:48.290252

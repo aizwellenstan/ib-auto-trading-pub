@@ -1,0 +1,13 @@
+[
+  {
+    "IC Kurtosis": NaN,
+    "IC Mean": 0.002430059739554659,
+    "IC Skew": NaN,
+    "IC Std.": 0.09409642928624563,
+    "IR": 0.025825206737253612,
+    "Risk-Adjusted IC": 0.025825206737253612,
+    "p-value(IC)": NaN,
+    "period": "1D",
+    "t-stat(IC)": NaN
+  }
+]
